@@ -738,7 +738,7 @@ public class HashSetDemo {
 
 **List 和 Set的区别**
 
-![1730806520362](E:\/1730806520362.png)
+![](https://github.com/zxyii/Courseware-Backend-Java-2024/blob/main/Lesson4/images/1730806520362.png)
 
 ##### 4. Map
 
